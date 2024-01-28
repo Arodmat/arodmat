@@ -10,12 +10,13 @@
 
 ###
 
-<h4 align="left">- I'm currently working on TriboDev ⚙️<br>- I'm currently learning Typescript and Next.js 💻<br>- I'm improving myself in Tailwind CSS Framework 📉<br>- I aim to be 1% better every day 💪</h4>
+<ul>
+	<li>I'm currently working on <b>TriboDev</b> ⚙️</li>
+	<li>I'm currently learning <b>Typescript, Next.js and NoSQL 💻</b></li>
+	<li>I'm improving myself in <b>Tailwind CSS Framework 📉</b></li>
+	<li>I aim to be <b>1% better every day 💪</b></li>
+</ul>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arodmat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -25,13 +26,14 @@
 ###
 
 <div align="left">
+<p>alexandrermtech@gmail.com</p>
   <a href="https://linkedin.com/in/alexandrematos2312/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/alexandrematosux" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
-	<p>alexandrermtech@gmail.com</p>
+	
 </div>
 
 ###
@@ -65,3 +67,9 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arodmat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arodmat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
