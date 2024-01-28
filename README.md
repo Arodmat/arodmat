@@ -5,6 +5,7 @@
 <h2 align="center">FrontEnd Developer and UX Designer 🙂💻</h2>
 
 ###
+<br></br>
 
 <img align="right" width="350" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFyNTNkMjA1cW52Zmg5NWNubjJ5bjhocnRuOGl4cnM1czZnaHdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
