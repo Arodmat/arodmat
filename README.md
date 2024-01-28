@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">- I'm currently working on TriboDev ⚙️<br>- I'm currently learning Typescript and Next.js 💻<br>- I'm improving myself in Tailwind CSS Framework 📉<br>- I aim to be 1% better every day 💪</h3>
+<h4 align="left">- I'm currently working on TriboDev ⚙️<br>- I'm currently learning Typescript and Next.js 💻<br>- I'm improving myself in Tailwind CSS Framework 📉<br>- I aim to be 1% better every day 💪</h4>
 
 ###
 
