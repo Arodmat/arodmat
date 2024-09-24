@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">FrontEnd Developer and UX Designer 🙂💻</h2>
+<h2 align="center">Data analyst UX Designer 🙂💻</h2>
 
 ###
 <br></br>
@@ -12,9 +12,8 @@
 ###
 
 <ul>
-	<li>I'm currently working on <b>TriboDev</b> ⚙️</li>
-	<li>I'm currently learning <b>Typescript, Next.js and NoSQL 💻</b></li>
-	<li>I'm improving myself in <b>Tailwind CSS Framework 📉</b></li>
+	<li>I'm currently learning <b>Python, SQL and Power BI 💻</b></li>
+	<li>I'm improving myself in <b>API's and Machine Learning 📉</b></li>
 	<li>I aim to be <b>1% better every day 💪</b></li>
 </ul>
 
@@ -44,6 +43,7 @@
 ###
 
 <div align="left">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
