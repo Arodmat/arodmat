@@ -1,27 +1,26 @@
-<h1 align="center">Hi, I'm Alexandre Matos 👋</h1>
+<h1 align="left">Hi, I'm Alexandre Matos👋</h1>
 
 ###
 
-<h2 align="center">Data analyst UX Designer 🙂💻</h2>
+<img align="right" width="320" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFyNTNkMjA1cW52Zmg5NWNubjJ5bjhocnRuOGl4cnM1czZnaHdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-###
-<br></br>
 
-<img align="right" width="350" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFyNTNkMjA1cW52Zmg5NWNubjJ5bjhocnRuOGl4cnM1czZnaHdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<h3 align="left">Data analyst and UX Designer 💻</h3>
+<br><br/>
 
-###
+<div>
 
 <ul>
-	<li>I'm currently learning <b>Python, SQL and Power BI 💻</b></li>
+	<li>In this profile, I share Data analysis projects and programs focused on FrontEnd 💻</b></li>
+	<li>I'm currently working with <b>Python, SQL and Power BI 💻</b></li>
 	<li>I'm improving myself in <b>API's and Machine Learning 📉</b></li>
 	<li>I aim to be <b>1% better every day 💪</b></li>
 </ul>
 
 </div>
 
-###
-
-<h2 align="left">How to reach me</h2>
+<br><br/>
+## How to reach me
 
 ###
 
@@ -36,35 +35,32 @@
 	
 </div>
 
-###
+<br><br/>
 
 <h2 align="left">My Skills</h2>
 
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)" height="40" alt="vscode logo"  />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="c-SHARP logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
