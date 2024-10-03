@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Alexandre Matos👋</h1>
+<h2 align="left">Hi, I'm Alexandre Matos👋</h2>
 
 <img align="right" width="320" height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFyNTNkMjA1cW52Zmg5NWNubjJ5bjhocnRuOGl4cnM1czZnaHdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
@@ -9,7 +9,7 @@
 <div>
 
 <ul>
-	<li>In this profile, I share <b>Data analysis projects and programs focused on FrontEnd</b></li>
+	<li>In this profile, I share <b>Data analysis projects and programs</b></li>
 	<li>I'm currently working with <b>Python, SQL and Power BI 💻</b></li>
 	<li>I'm improving myself in <b>API's and Machine Learning 📉</b></li>
 	<li>I aim to be <b>1% better every day 💪</b></li>
@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-<p>alexandrermtech@gmail.com</p>
+<h4>alexandrermtech@gmail.com</h4>
 <h6> Please click on the icons to view my profiles</h6>
   <a href="https://linkedin.com/in/alexandrematos2312/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -60,9 +60,4 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arodmat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arodmat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
