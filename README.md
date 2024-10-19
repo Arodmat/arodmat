@@ -9,10 +9,9 @@
 <div>
 
 <ul>
-	<li>In this profile, I share <b>Data analysis projects and programs</b></li>
+	<li>On this profile, I share <b>Data analysis projects and programs</b></li>
 	<li>I'm currently working with <b>Python, SQL and Power BI 💻</b></li>
 	<li>I'm improving myself in <b>API's and Machine Learning 📉</b></li>
-	<li>I aim to be <b>1% better every day 💪</b></li>
 </ul>
 
 </div>
